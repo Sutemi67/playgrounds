@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\playgrounds\Csharp\bin\x64\Debug\net10.0\C#_playground.exe
+C:\Users\Student\Documents\playgrounds\Csharp\bin\x64\Debug\net10.0\C#_playground.deps.json
+C:\Users\Student\Documents\playgrounds\Csharp\bin\x64\Debug\net10.0\C#_playground.runtimeconfig.json
+C:\Users\Student\Documents\playgrounds\Csharp\bin\x64\Debug\net10.0\C#_playground.dll
+C:\Users\Student\Documents\playgrounds\Csharp\bin\x64\Debug\net10.0\C#_playground.pdb
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.AssemblyInfo.cs
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.dll
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\refint\C#_playground.dll
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.pdb
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\C#_playground.genruntimeconfig.cache
+C:\Users\Student\Documents\playgrounds\Csharp\obj\x64\Debug\net10.0\ref\C#_playground.dll
